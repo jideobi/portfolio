@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.72fc2d49.css",
+    "main.js": "/portfolio/static/js/main.fd44d831.js",
+    "static/media/Capture5.PNG": "/portfolio/static/media/Capture5.7837ec4f633cd3835697.PNG",
+    "static/media/Capture4.PNG": "/portfolio/static/media/Capture4.835ced87bbab902d9ee9.PNG",
+    "static/media/Capture1.PNG": "/portfolio/static/media/Capture1.9cad4a8a691a93b670d3.PNG",
+    "static/media/jideobi.pdf": "/portfolio/static/media/jideobi.1e95ae66a3a169738894.pdf",
+    "static/media/Capture3.PNG": "/portfolio/static/media/Capture3.2d09e8cf3932acd05719.PNG",
+    "static/media/Capture6.PNG": "/portfolio/static/media/Capture6.5b5008c13df768756c99.PNG",
+    "static/media/css.png": "/portfolio/static/media/css.3e11fbb6f698d18a826c.png",
+    "static/media/Capture2.PNG": "/portfolio/static/media/Capture2.9bd999f4d17d1fd56e79.PNG",
+    "static/media/react.png": "/portfolio/static/media/react.6a0b5480965d12d88644.png",
+    "static/media/murlogo.png": "/portfolio/static/media/murlogo.989d496589ec54b0ed4b.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.3d34d9fd23db6f853b67.png",
+    "static/media/node.png": "/portfolio/static/media/node.e3e54aeed4cc8c51a9bf.png",
+    "index.html": "/portfolio/index.html",
+    "main.72fc2d49.css.map": "/portfolio/static/css/main.72fc2d49.css.map",
+    "main.fd44d831.js.map": "/portfolio/static/js/main.fd44d831.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72fc2d49.css",
+    "static/js/main.fd44d831.js"
+  ]
+}
