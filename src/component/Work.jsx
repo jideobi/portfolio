@@ -18,7 +18,7 @@ const Work = () => {
         </div>
 
         {/*container*/}
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6">
+        <div className="hidden md:grid md:grid-cols-3 gap-6">
           {/*grid item1*/}
           <div
             style={{ backgroundImage: `url(${Working1})` }}
@@ -157,7 +157,7 @@ const Work = () => {
             {/*hOVER EFFECT */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Energy Comp. Website
+                Renwable Energy Site
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -175,6 +175,7 @@ const Work = () => {
             </div>
           </div>
         </div>
+      
       </div>
     </div>
   );
